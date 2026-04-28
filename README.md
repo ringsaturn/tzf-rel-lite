@@ -2,6 +2,10 @@
 
 ![](https://img.shields.io/github/v/release/ringsaturn/tzf-rel-lite?style=plastic)
 
+> [!WARNING]
+> Deprecated: This project is deprecated and no longer maintained.
+> Please see https://github.com/ringsaturn/tzf for latest timezone data and tools.
+
 ## Update Data Steps
 
 ### CI
